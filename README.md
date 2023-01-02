@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/akbejaoui" target="blank"><img src="https://img.shields.io/twitter/follow/akbejaoui?logo=twitter&style=for-the-badge" alt="akbejaoui" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning to become a better problem solver**
+- 🌱 **I’m currently learning to become a better problem solver**
 
-- 👨‍💻 All of my projects are available at [https://abejaoui.com](https://abejaoui.com)
+- 👨‍💻 All of my projects are available at [https://abejaoui.com](https://portfolio.abejaoui.com)
 
 - 📝 I regularly write articles on [https://medium.com/@ahmedbejaoui](https://medium.com/@ahmedbejaoui)
 
