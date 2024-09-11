@@ -29,9 +29,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/akbejaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akbejaoui" height="30" width="40" /></a>
-<a href="https://twitter.com/akbejaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akbejaoui" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hmed-khalil-bejaoui-122a1769/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmed-khalil-bejaoui-122a1769/" height="30" width="40" /></a>
-<a href="https://fb.com/akbejaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akbejaoui" height="30" width="40" /></a>
 <a href="https://instagram.com/akbejaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbejaoui" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmedbejaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedbejaoui" height="30" width="40" /></a>
 </p>
